@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: wpzoom, nvartolomei
+Contributors: WPZOOM, nvartolomei
 Donate link: http://wpzoom.com/
 Tags: customize, customizer, reset
 Requires at least: 3.4
